@@ -23,4 +23,4 @@ vjudge: https://vjudge.net/
 
 **语言基础**
 
-菜鸟教程: https://vjudge.net/
+菜鸟教程: https://www.runoob.com/
