@@ -21,11 +21,16 @@ codeforces: https://www.luogu.com.cn/
 
 vjudge: https://vjudge.net/
 
+力扣leetcode: https://leetcode-cn.com/
+
+牛客网: https://www.nowcoder.com/
+
 **语言基础**
 
 菜鸟教程: https://www.runoob.com/
 
 **算法、数据结构可视化**
+
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 ## course2
