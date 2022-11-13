@@ -209,10 +209,14 @@ struct ReturnValue
 
 ### 最大回文子串
 给定一个字符串s，求s的最大回文子串，例如abbcba，则输出bb
-	#a#b#b#c#b#a#b#a
-串!=序列
+
+记住 串!=序列
 
 空隙插入特殊字符#
+
+	#a#b#b#c#b#a#b#a
+	
+这样就可以只用考虑奇数回文串
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
